@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-for-beginners/static/js/main.8b757692.js",
+    "static/js/787.28585334.chunk.js": "/react-for-beginners/static/js/787.28585334.chunk.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.8b757692.js.map": "/react-for-beginners/static/js/main.8b757692.js.map",
+    "787.28585334.chunk.js.map": "/react-for-beginners/static/js/787.28585334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8b757692.js"
+  ]
+}
